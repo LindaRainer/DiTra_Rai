@@ -1,7 +1,8 @@
 Folgend werden die Bauphase für unser kleines Projekt angeführt:
 1. Bodenverdichtung
-2. Sauberkeitsschicht einbauen
-3. XPS verlegen
-4. Bodenplatte herstellen
-5. Schal- und Bewehrungsarbeiten
-6. Betonieren Wand
+3. Sauberkeitsschicht einbauen
+5. XPS verlegen
+6. Bodenplatte herstellen
+7. Arbeitsfugen bearbeiten
+8. Schal- und Bewehrungsarbeiten
+9. Betonieren Wand
