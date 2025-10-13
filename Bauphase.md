@@ -6,3 +6,4 @@ Folgend werden die Bauphase für unser kleines Projekt angeführt:
 7. Arbeitsfugen bearbeiten
 8. Schal- und Bewehrungsarbeiten
 9. Betonieren Wand
+10. Pause machen
